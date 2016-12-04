@@ -4,3 +4,4 @@ This repo is used in testing gogradle.
 
 # Revision History
 0.0.1
+v0.0.2
