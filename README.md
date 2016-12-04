@@ -7,3 +7,4 @@ This repo is used in testing gogradle.
 v0.0.2
 0.0.3-prerelease
 unknown-tag
+1.0.0-RELEASE
