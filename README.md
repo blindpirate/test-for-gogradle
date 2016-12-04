@@ -8,3 +8,5 @@ v0.0.2
 0.0.3-prerelease
 unknown-tag
 1.0.0-RELEASE
+1.1.0
+1.2.0
