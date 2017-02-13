@@ -1,0 +1,3 @@
+[submodule "vendor/submodule"]
+	path = vendor/submodule
+	url = https://github.com/blindpirate/submodule-test-for-gogradle.git
